@@ -1,1 +1,0 @@
-Take in array of string with /, put them in correct place. maybe use hashmap and something to split string.
